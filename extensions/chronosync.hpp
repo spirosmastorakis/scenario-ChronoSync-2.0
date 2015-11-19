@@ -19,7 +19,7 @@
  * Author: Spyridon (Spyros) Mastorakis <mastorakis@cs.ucla.edu>
  */
 
-#include "src/socket.hpp"
+#include "socket.hpp"
 
 #include <ndn-cxx/face.hpp>
 

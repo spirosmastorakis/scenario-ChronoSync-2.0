@@ -1,3 +1,6 @@
 [submodule "ChronoSync"]
 	path = ChronoSync
 	url = https://github.com/spirosmastorakis/ChronoSync
+[submodule "Chronosync-2.0"]
+	path = Chronosync-2.0
+	url = https://github.com/spirosmastorakis/Chronosync-2.0
